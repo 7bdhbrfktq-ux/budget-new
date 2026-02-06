@@ -2,8 +2,6 @@
 
 A smart, beautiful Progressive Web App (PWA) for tracking your income, expenses, savings goals, and financial insights. Works offline and installs on your iPhone like a native app!
 
-![Budget Tracker Pro](ui-preview.png)
-
 ## ✨ Features
 
 ### 📊 **Analytics Dashboard**
